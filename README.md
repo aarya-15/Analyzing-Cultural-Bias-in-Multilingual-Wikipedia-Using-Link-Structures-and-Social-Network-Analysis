@@ -64,8 +64,8 @@ The analysis shows that:
 Network graphs were generated to visualize article connectivity and centrality within each language edition.
 
 Examples include:
-## Degree Centrality Distribution
-![Centrality Chart](bias_analysis/centrality_chart.png)
+## Metric Correlation Heatmap
+![Centrality Chart](bias_analysis/occupation_corr_heatmap.png)
 
 ---
 
